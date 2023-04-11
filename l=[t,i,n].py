@@ -1,0 +1,12 @@
+l=["t","i","n"]
+l.insert(3,"s")
+print(l)
+l.remove("s")
+print(l)
+l.append("s")
+print(l)
+print(len(l))
+l.pop()
+print(l)
+l.clear()
+print(l)
